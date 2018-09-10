@@ -1,0 +1,82 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: Rajani.kulkarni05@gmail.com"
+      },
+      {
+        "line": 2,
+        "value": "#Keywords Summary :"
+      },
+      {
+        "line": 3,
+        "value": "#Feature: Add Employee."
+      },
+      {
+        "line": 4,
+        "value": "#Scenario: As a Business add Employee."
+      }
+    ],
+    "line": 6,
+    "elements": [
+      {
+        "line": 9,
+        "name": "Automating Add Employee Test",
+        "description": "",
+        "id": "add-employee-for-test-automation;automating-add-employee-test",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I want to open website deputyfood",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I want to enter the username",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I want to\tenter password",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "I click on Login button",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@login"
+          }
+        ]
+      }
+    ],
+    "name": "Add Employee for Test automation",
+    "description": "",
+    "id": "add-employee-for-test-automation",
+    "keyword": "Feature",
+    "uri": "features/FeatureAddEmp.feature"
+  }
+]
